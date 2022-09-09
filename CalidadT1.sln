@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalidadT1", "CalidadT1\Cali
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCalidadT1.Test", "TestCalidadT1.Test\TestCalidadT1.Test.csproj", "{3D6BA6FB-4120-485F-B0C3-5BD75F7DB019}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCalidadBook.Test", "TestCalidadBook.Test\TestCalidadBook.Test.csproj", "{F7B9E634-6CBC-439A-9576-21E4C3534417}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{3D6BA6FB-4120-485F-B0C3-5BD75F7DB019}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D6BA6FB-4120-485F-B0C3-5BD75F7DB019}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D6BA6FB-4120-485F-B0C3-5BD75F7DB019}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7B9E634-6CBC-439A-9576-21E4C3534417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7B9E634-6CBC-439A-9576-21E4C3534417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7B9E634-6CBC-439A-9576-21E4C3534417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7B9E634-6CBC-439A-9576-21E4C3534417}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
